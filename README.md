@@ -6,7 +6,7 @@
 </a>
 <br /><br />
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=aabounak)](https://github.com/mohouyizme/1337-readme)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=aabounak)](https://github.com/ayoubabounakif)
 <br />
 <a href="https://github.com/ayoubabounakif/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubabounakif&layout=compact&theme=synthwave" alt="Ayoub's most used languages" />
