@@ -4,9 +4,9 @@
 <a href="https://www.linkedin.com/in/ayoub-abounakif-49b93819a/" target="_blank">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=aabounak)](https://github.com/mohouyizme/1337-readme)
 <br />
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=aabounak)](https://github.com/mohouyizme/1337-readme)
+
 
 <br /><br />
 <a href="https://github.com/ayoubabounakif/">
