@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 
-- 💬 Ask me about **Node, Vue, ML**
-
-- 📫 How to reach me **ayoubabounakif@gmail.com**
+- 💬 Ask me about **Js/Ts, Node, Vue, ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
